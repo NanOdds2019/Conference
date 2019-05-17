@@ -9,6 +9,12 @@
   text-align: center;
   color: black;
   padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+
+figure {
+  float: center;
 }
 
 p{
@@ -17,7 +23,22 @@ p{
   font-family: "Helvetica";
   font-size: 16pt;
   padding-left: 8px;
-  margin: 10px 30% 2em 30%;
+  margin: 10px 10% 2em 10%;
+}
+
+.speak {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
 }
 
 .venue{
