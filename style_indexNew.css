@@ -7,13 +7,13 @@
 
 #mid{
   text-align: center;
-  color: white;
+  color: black;
   padding-bottom: 20px;
   margin-bottom: 20px;
 }
 
 figcaption{
-  color: white;
+  color: black;
 }
 
 
@@ -23,7 +23,7 @@ figure {
 
 p{
   text-align: left;
-  color: white;
+  color: black;
   font-family: "Helvetica";
   font-size: 16pt;
   padding-left: 8px;
@@ -63,7 +63,7 @@ img {
 
 h3{
   text-align: center;
-	color: white;
+	color: black;
 	font-family: "Helvetica";
 	font-size: 18pt;
 	padding-top: 10px;
@@ -73,7 +73,7 @@ h3{
 
 h2{
 	text-align: center;
-	color: white;
+	color: black;
 	font-family: "Helvetica";
 	font-size: 28pt;
 	padding-top: 25px;
@@ -97,7 +97,7 @@ h2{
 
 h4{
 	text-align: center;
-	color: white;
+	color: black;
 	font-family: "Helvetica";
 	font-size: 20pt;
 	padding-top: 20px;
@@ -118,7 +118,7 @@ h4{
 }
 
 body {
-    background: black;
+    background: white;
     color: #444;
     -webkit-font-smoothing: antialiased;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
