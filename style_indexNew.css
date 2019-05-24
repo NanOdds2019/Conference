@@ -12,10 +12,26 @@
   margin-bottom: 20px;
 }
 
+#home-text{
+  text-align: center;
+  color: black;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  margin-left: 245px;
+  margin-right: 245px;
+}
+
+.mb-3{
+
+  margin-bottom: 10px;
+}
 figcaption{
   color: black;
 }
 
+.top-buffer {
+  margin-top: 20px;
+}
 
 figure {
   float: center;
@@ -31,11 +47,12 @@ p{
 }
 
 .speak {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
+
 }
 
 img {
@@ -78,6 +95,9 @@ h2{
 	font-size: 28pt;
 	padding-top: 25px;
   padding-bottom: 25px;
+  margin-left: 245px;
+  margin-right: 245px;
+
 
 }
 
