@@ -150,7 +150,9 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-
+.color-me{
+  color:  white;
+}
 
 nav {
   width: 100%;
