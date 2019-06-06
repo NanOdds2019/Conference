@@ -55,6 +55,25 @@ p{
 
 }
 
+.caption{
+  position: relative;
+  text-align: center;
+}
+
+.circle-img {
+  width: 450px;
+  height: 450px;
+  overflow: hidden;
+}
+
+.circle-img img {
+  height: 100%;
+  transform: translateX(-50%);
+  margin-left: 50%;
+  margin-right: 50%;
+}
+
+
 img {
     display: inline;
     margin: 0 auto;
@@ -76,9 +95,6 @@ img {
   margin-top: 0px;
   display: block;
 }
-
-
-
 
 .banner{
   display: block;
@@ -103,18 +119,6 @@ h4{
   padding-bottom: 10px;
 }
 
-.center{
-  border-radius: 50%;
-  border: 1px solid #ddd;
-  padding: 2px;
-  height: 400px;
-  max-width: 85%;
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0px;
-  display: block;
-}
 
 body {
     background: white;
