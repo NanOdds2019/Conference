@@ -9,6 +9,7 @@ IMG_0586.HEIC
 IMG_0585.HEIC
 }
 
+
 #mid{
   text-align: center;
   color: white;
@@ -136,7 +137,8 @@ header {
 
         header > div#logo > div#navToggle {
             background-color: rgba(0,0,0,.15);
-            position: absolute;
+            position: relative;
+            width: 100%;
             right: 0;
             top: 0;
             transition: 300ms all ease;
@@ -213,9 +215,9 @@ header {
                 box-shadow: 0 2px 8px rgba(0,0,0,.6);
                 display: none;
                 overflow: hidden;
-                position: absolute;
+                position: relative;
                 right: 5%;
-                width: 90%;
+                width: 100%;
                 z-index: 100;
             }
 
@@ -240,7 +242,7 @@ header {
         flex-direction: row;
         line-height: 90px;
         padding: 0 3rem;
-        position: fixed;
+        position: relative;
         text-align: left;
         width: 100%;
     }
@@ -304,6 +306,6 @@ header {
         display: block;
         line-height: 3em;
         right: -50%;
-        width: 196px;
+        width: 100%;
     }
 }

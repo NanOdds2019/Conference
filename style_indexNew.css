@@ -183,6 +183,23 @@ nav a:hover {
   background-color: #17b0cf;
 }
 
+.anderson{
+  width: 100%;
+}
+
+.xu{
+  display: inline;
+}
+
+html, body{
+  overflow-x: hidden;
+  width: 100%
+}
+
+body {
+  position: relative;
+}
+
 #logo {
   font-family: 'Hind', sans-serif;
   font-size: 30px;
