@@ -160,11 +160,13 @@ nav {
   height: 50px;
   background-color: white;
   text-align: center;
+  z-index: 1000;
 }
 
 nav a {
   display: block;
   float: center;
+  z-index: 1000;
 
   font-family:  "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 14px;
