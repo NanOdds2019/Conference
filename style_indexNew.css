@@ -202,6 +202,12 @@ nav-static-top {
   margin-right: auto;
 }
 
+[class*="col-"] {
+  padding-right: 35px;
+  padding-left: 35px;
+  float: center;
+}
+
 .xu{
   display: inline;
   overflow:hidden;
