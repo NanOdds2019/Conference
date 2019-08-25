@@ -203,9 +203,8 @@ nav-static-top {
 }
 
 [class*="col-"] {
-  padding-right: 35px;
-  padding-left: 35px;
-  float: center;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
 .xu{
