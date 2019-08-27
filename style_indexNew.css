@@ -54,7 +54,7 @@ p{
 .speak {
     width: 250px;
     height: 250px;
-    position: relative;
+    position: center;
     overflow: hidden;
     border-radius: 50%;
     display: block;
